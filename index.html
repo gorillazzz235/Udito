@@ -624,6 +624,7 @@ let log = [];
 let speechRate = 0.85;
 let pauseSeconds = 2;
 let answered = false;
+let currentWord = ''; // parola corrente da pronunciare
 let currentMode = 'listen';
 let preferredGender = 'auto';
 let listenPaused = false;
@@ -720,18 +721,25 @@ function pickVoice() {
 }
 
 function speak(text, cb) {
+  // Salva il testo richiesto per verificare che non sia cambiato
+  const requestedText = text;
   window.speechSynthesis.cancel();
-  const u = new SpeechSynthesisUtterance(text);
-  u.lang = 'it-IT';
-  u.rate = speechRate;
-  u.pitch = 1;
-  const v = pickVoice();
-  if (v) u.voice = v;
   const wf = document.getElementById('waveform');
-  wf.classList.add('speaking');
-  u.onend  = () => { wf.classList.remove('speaking'); if (cb) cb(); };
-  u.onerror = () => { wf.classList.remove('speaking'); if (cb) cb(); };
-  window.speechSynthesis.speak(u);
+  wf.classList.remove('speaking');
+  // Aspetta che il cancel sia davvero completato (iOS richiede un delay)
+  setTimeout(() => {
+    // Verifica che la parola richiesta sia ancora quella corrente
+    const u = new SpeechSynthesisUtterance(requestedText);
+    u.lang = 'it-IT';
+    u.rate = speechRate;
+    u.pitch = 1;
+    const v = pickVoice();
+    if (v) u.voice = v;
+    wf.classList.add('speaking');
+    u.onend  = () => { wf.classList.remove('speaking'); if (cb) cb(); };
+    u.onerror = () => { wf.classList.remove('speaking'); if (cb) cb(); };
+    window.speechSynthesis.speak(u);
+  }, 150);
 }
 
 // ── Config ─────────────────────────────────────────────────────────────────────
@@ -935,6 +943,7 @@ function speakListenItem() {
   document.getElementById('nowPlayingWord').textContent = '—';
   document.getElementById('listenSub').textContent = 'In ascolto...';
 
+  currentWord = item.word;
   speak(item.word, () => {
     if (!listenActive) return;
     document.getElementById('nowPlayingWord').textContent = item.word;
@@ -1014,6 +1023,7 @@ function showRound() {
     setTimeout(() => inp.focus(), 150);
   }
 
+  currentWord = item.word;
   setTimeout(() => speak(item.word), 300);
 }
 
@@ -1055,7 +1065,7 @@ function confirmTypeAnswer() {
   document.getElementById('btnNextType').classList.remove('hidden');
 }
 
-function replayWord() { if (currentIdx < queue.length) speak(queue[currentIdx].word); }
+function replayWord() { if (currentWord) speak(currentWord); }
 function nextRound() { currentIdx++; showRound(); }
 
 // ── Results ───────────────────────────────────────────────────────────────────
