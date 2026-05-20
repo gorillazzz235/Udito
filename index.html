@@ -721,25 +721,19 @@ function pickVoice() {
 }
 
 function speak(text, cb) {
-  // Salva il testo richiesto per verificare che non sia cambiato
-  const requestedText = text;
+  currentWord = text;
   window.speechSynthesis.cancel();
+  const u = new SpeechSynthesisUtterance(text);
+  u.lang = 'it-IT';
+  u.rate = speechRate;
+  u.pitch = 1;
+  const v = pickVoice();
+  if (v) u.voice = v;
   const wf = document.getElementById('waveform');
-  wf.classList.remove('speaking');
-  // Aspetta che il cancel sia davvero completato (iOS richiede un delay)
-  setTimeout(() => {
-    // Verifica che la parola richiesta sia ancora quella corrente
-    const u = new SpeechSynthesisUtterance(requestedText);
-    u.lang = 'it-IT';
-    u.rate = speechRate;
-    u.pitch = 1;
-    const v = pickVoice();
-    if (v) u.voice = v;
-    wf.classList.add('speaking');
-    u.onend  = () => { wf.classList.remove('speaking'); if (cb) cb(); };
-    u.onerror = () => { wf.classList.remove('speaking'); if (cb) cb(); };
-    window.speechSynthesis.speak(u);
-  }, 150);
+  wf.classList.add('speaking');
+  u.onend  = () => { wf.classList.remove('speaking'); if (cb) cb(); };
+  u.onerror = () => { wf.classList.remove('speaking'); if (cb) cb(); };
+  window.speechSynthesis.speak(u);
 }
 
 // ── Config ─────────────────────────────────────────────────────────────────────
