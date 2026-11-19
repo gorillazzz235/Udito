@@ -1,0 +1,38 @@
+name: Genera voci
+
+# Parte da solo quando carichi index.html, voci.py, parole_extra.txt
+# o nuove registrazioni in audio/. Si può anche avviare a mano da "Actions".
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "index.html"
+      - "voci.py"
+      - "parole_extra.txt"
+      - "audio/**"
+
+permissions:
+  contents: write
+
+jobs:
+  voci:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Installa edge-tts
+        run: pip install edge-tts
+
+      - name: Genera audio e manifest
+        run: python3 voci.py genera
+
+      - name: Salva i file nel repository
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add audio
+          git diff --cached --quiet || (git commit -m "Aggiorna voci" && git push)
