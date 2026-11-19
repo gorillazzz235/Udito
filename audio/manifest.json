@@ -1,0 +1,1878 @@
+{
+ "voices": {
+  "f_elsa": {
+   "gender": "female",
+   "count": 372
+  },
+  "f_isabella": {
+   "gender": "female",
+   "count": 372
+  },
+  "m_diego": {
+   "gender": "male",
+   "count": 372
+  }
+ },
+ "words": {
+  "addendi": {
+   "f_elsa": "addendi.mp3",
+   "f_isabella": "addendi.mp3",
+   "m_diego": "addendi.mp3"
+  },
+  "addenta": {
+   "f_elsa": "addenta.mp3",
+   "f_isabella": "addenta.mp3",
+   "m_diego": "addenta.mp3"
+  },
+  "afferra": {
+   "f_elsa": "afferra.mp3",
+   "f_isabella": "afferra.mp3",
+   "m_diego": "afferra.mp3"
+  },
+  "alce": {
+   "f_elsa": "alce.mp3",
+   "f_isabella": "alce.mp3",
+   "m_diego": "alce.mp3"
+  },
+  "alte": {
+   "f_elsa": "alte.mp3",
+   "f_isabella": "alte.mp3",
+   "m_diego": "alte.mp3"
+  },
+  "attenta": {
+   "f_elsa": "attenta.mp3",
+   "f_isabella": "attenta.mp3",
+   "m_diego": "attenta.mp3"
+  },
+  "attenti": {
+   "f_elsa": "attenti.mp3",
+   "f_isabella": "attenti.mp3",
+   "m_diego": "attenti.mp3"
+  },
+  "atterra": {
+   "f_elsa": "atterra.mp3",
+   "f_isabella": "atterra.mp3",
+   "m_diego": "atterra.mp3"
+  },
+  "ba": {
+   "f_elsa": "ba.mp3",
+   "f_isabella": "ba.mp3",
+   "m_diego": "ba.mp3"
+  },
+  "bacche": {
+   "f_elsa": "bacche.mp3",
+   "f_isabella": "bacche.mp3",
+   "m_diego": "bacche.mp3"
+  },
+  "baffi": {
+   "f_elsa": "baffi.mp3",
+   "f_isabella": "baffi.mp3",
+   "m_diego": "baffi.mp3"
+  },
+  "balcone": {
+   "f_elsa": "balcone.mp3",
+   "f_isabella": "balcone.mp3",
+   "m_diego": "balcone.mp3"
+  },
+  "balla": {
+   "f_elsa": "balla.mp3",
+   "f_isabella": "balla.mp3",
+   "m_diego": "balla.mp3"
+  },
+  "balle": {
+   "f_elsa": "balle.mp3",
+   "f_isabella": "balle.mp3",
+   "m_diego": "balle.mp3"
+  },
+  "ballo": {
+   "f_elsa": "ballo.mp3",
+   "f_isabella": "ballo.mp3",
+   "m_diego": "ballo.mp3"
+  },
+  "banca": {
+   "f_elsa": "banca.mp3",
+   "f_isabella": "banca.mp3",
+   "m_diego": "banca.mp3"
+  },
+  "banda": {
+   "f_elsa": "banda.mp3",
+   "f_isabella": "banda.mp3",
+   "m_diego": "banda.mp3"
+  },
+  "bara": {
+   "f_elsa": "bara.mp3",
+   "f_isabella": "bara.mp3",
+   "m_diego": "bara.mp3"
+  },
+  "barcone": {
+   "f_elsa": "barcone.mp3",
+   "f_isabella": "barcone.mp3",
+   "m_diego": "barcone.mp3"
+  },
+  "basse": {
+   "f_elsa": "basse.mp3",
+   "f_isabella": "basse.mp3",
+   "m_diego": "basse.mp3"
+  },
+  "bassi": {
+   "f_elsa": "bassi.mp3",
+   "f_isabella": "bassi.mp3",
+   "m_diego": "bassi.mp3"
+  },
+  "basta": {
+   "f_elsa": "basta.mp3",
+   "f_isabella": "basta.mp3",
+   "m_diego": "basta.mp3"
+  },
+  "batte": {
+   "f_elsa": "batte.mp3",
+   "f_isabella": "batte.mp3",
+   "m_diego": "batte.mp3"
+  },
+  "becchi": {
+   "f_elsa": "becchi.mp3",
+   "f_isabella": "becchi.mp3",
+   "m_diego": "becchi.mp3"
+  },
+  "bela": {
+   "f_elsa": "bela.mp3",
+   "f_isabella": "bela.mp3",
+   "m_diego": "bela.mp3"
+  },
+  "belle": {
+   "f_elsa": "belle.mp3",
+   "f_isabella": "belle.mp3",
+   "m_diego": "belle.mp3"
+  },
+  "bello": {
+   "f_elsa": "bello.mp3",
+   "f_isabella": "bello.mp3",
+   "m_diego": "bello.mp3"
+  },
+  "bende": {
+   "f_elsa": "bende.mp3",
+   "f_isabella": "bende.mp3",
+   "m_diego": "bende.mp3"
+  },
+  "bere": {
+   "f_elsa": "bere.mp3",
+   "f_isabella": "bere.mp3",
+   "m_diego": "bere.mp3"
+  },
+  "beve": {
+   "f_elsa": "beve.mp3",
+   "f_isabella": "beve.mp3",
+   "m_diego": "beve.mp3"
+  },
+  "bi": {
+   "f_elsa": "bi.mp3",
+   "f_isabella": "bi.mp3",
+   "m_diego": "bi.mp3"
+  },
+  "bici": {
+   "f_elsa": "bici.mp3",
+   "f_isabella": "bici.mp3",
+   "m_diego": "bici.mp3"
+  },
+  "biro": {
+   "f_elsa": "biro.mp3",
+   "f_isabella": "biro.mp3",
+   "m_diego": "biro.mp3"
+  },
+  "bo": {
+   "f_elsa": "bo.mp3",
+   "f_isabella": "bo.mp3",
+   "m_diego": "bo.mp3"
+  },
+  "bocca": {
+   "f_elsa": "bocca.mp3",
+   "f_isabella": "bocca.mp3",
+   "m_diego": "bocca.mp3"
+  },
+  "bocce": {
+   "f_elsa": "bocce.mp3",
+   "f_isabella": "bocce.mp3",
+   "m_diego": "bocce.mp3"
+  },
+  "bocche": {
+   "f_elsa": "bocche.mp3",
+   "f_isabella": "bocche.mp3",
+   "m_diego": "bocche.mp3"
+  },
+  "boccia": {
+   "f_elsa": "boccia.mp3",
+   "f_isabella": "boccia.mp3",
+   "m_diego": "boccia.mp3"
+  },
+  "bolle": {
+   "f_elsa": "bolle.mp3",
+   "f_isabella": "bolle.mp3",
+   "m_diego": "bolle.mp3"
+  },
+  "bollo": {
+   "f_elsa": "bollo.mp3",
+   "f_isabella": "bollo.mp3",
+   "m_diego": "bollo.mp3"
+  },
+  "bolo": {
+   "f_elsa": "bolo.mp3",
+   "f_isabella": "bolo.mp3",
+   "m_diego": "bolo.mp3"
+  },
+  "bomba": {
+   "f_elsa": "bomba.mp3",
+   "f_isabella": "bomba.mp3",
+   "m_diego": "bomba.mp3"
+  },
+  "borsa": {
+   "f_elsa": "borsa.mp3",
+   "f_isabella": "borsa.mp3",
+   "m_diego": "borsa.mp3"
+  },
+  "botta": {
+   "f_elsa": "botta.mp3",
+   "f_isabella": "botta.mp3",
+   "m_diego": "botta.mp3"
+  },
+  "botte": {
+   "f_elsa": "botte.mp3",
+   "f_isabella": "botte.mp3",
+   "m_diego": "botte.mp3"
+  },
+  "bozza": {
+   "f_elsa": "bozza.mp3",
+   "f_isabella": "bozza.mp3",
+   "m_diego": "bozza.mp3"
+  },
+  "bue": {
+   "f_elsa": "bue.mp3",
+   "f_isabella": "bue.mp3",
+   "m_diego": "bue.mp3"
+  },
+  "buffa": {
+   "f_elsa": "buffa.mp3",
+   "f_isabella": "buffa.mp3",
+   "m_diego": "buffa.mp3"
+  },
+  "buoi": {
+   "f_elsa": "buoi.mp3",
+   "f_isabella": "buoi.mp3",
+   "m_diego": "buoi.mp3"
+  },
+  "bussa": {
+   "f_elsa": "bussa.mp3",
+   "f_isabella": "bussa.mp3",
+   "m_diego": "bussa.mp3"
+  },
+  "butta": {
+   "f_elsa": "butta.mp3",
+   "f_isabella": "butta.mp3",
+   "m_diego": "butta.mp3"
+  },
+  "cade": {
+   "f_elsa": "cade.mp3",
+   "f_isabella": "cade.mp3",
+   "m_diego": "cade.mp3"
+  },
+  "calla": {
+   "f_elsa": "calla.mp3",
+   "f_isabella": "calla.mp3",
+   "m_diego": "calla.mp3"
+  },
+  "callo": {
+   "f_elsa": "callo.mp3",
+   "f_isabella": "callo.mp3",
+   "m_diego": "callo.mp3"
+  },
+  "cane": {
+   "f_elsa": "cane.mp3",
+   "f_isabella": "cane.mp3",
+   "m_diego": "cane.mp3"
+  },
+  "canna": {
+   "f_elsa": "canna.mp3",
+   "f_isabella": "canna.mp3",
+   "m_diego": "canna.mp3"
+  },
+  "cara": {
+   "f_elsa": "cara.mp3",
+   "f_isabella": "cara.mp3",
+   "m_diego": "cara.mp3"
+  },
+  "carro": {
+   "f_elsa": "carro.mp3",
+   "f_isabella": "carro.mp3",
+   "m_diego": "carro.mp3"
+  },
+  "carte": {
+   "f_elsa": "carte.mp3",
+   "f_isabella": "carte.mp3",
+   "m_diego": "carte.mp3"
+  },
+  "casa": {
+   "f_elsa": "casa.mp3",
+   "f_isabella": "casa.mp3",
+   "m_diego": "casa.mp3"
+  },
+  "cassa": {
+   "f_elsa": "cassa.mp3",
+   "f_isabella": "cassa.mp3",
+   "m_diego": "cassa.mp3"
+  },
+  "castello": {
+   "f_elsa": "castello.mp3",
+   "f_isabella": "castello.mp3",
+   "m_diego": "castello.mp3"
+  },
+  "cava": {
+   "f_elsa": "cava.mp3",
+   "f_isabella": "cava.mp3",
+   "m_diego": "cava.mp3"
+  },
+  "cavolo": {
+   "f_elsa": "cavolo.mp3",
+   "f_isabella": "cavolo.mp3",
+   "m_diego": "cavolo.mp3"
+  },
+  "cesta": {
+   "f_elsa": "cesta.mp3",
+   "f_isabella": "cesta.mp3",
+   "m_diego": "cesta.mp3"
+  },
+  "cesto": {
+   "f_elsa": "cesto.mp3",
+   "f_isabella": "cesto.mp3",
+   "m_diego": "cesto.mp3"
+  },
+  "cieco": {
+   "f_elsa": "cieco.mp3",
+   "f_isabella": "cieco.mp3",
+   "m_diego": "cieco.mp3"
+  },
+  "cielo": {
+   "f_elsa": "cielo.mp3",
+   "f_isabella": "cielo.mp3",
+   "m_diego": "cielo.mp3"
+  },
+  "ciocca": {
+   "f_elsa": "ciocca.mp3",
+   "f_isabella": "ciocca.mp3",
+   "m_diego": "ciocca.mp3"
+  },
+  "cita": {
+   "f_elsa": "cita.mp3",
+   "f_isabella": "cita.mp3",
+   "m_diego": "cita.mp3"
+  },
+  "ciuccio": {
+   "f_elsa": "ciuccio.mp3",
+   "f_isabella": "ciuccio.mp3",
+   "m_diego": "ciuccio.mp3"
+  },
+  "ciuffo": {
+   "f_elsa": "ciuffo.mp3",
+   "f_isabella": "ciuffo.mp3",
+   "m_diego": "ciuffo.mp3"
+  },
+  "co": {
+   "f_elsa": "co.mp3",
+   "f_isabella": "co.mp3",
+   "m_diego": "co.mp3"
+  },
+  "coda": {
+   "f_elsa": "coda.mp3",
+   "f_isabella": "coda.mp3",
+   "m_diego": "coda.mp3"
+  },
+  "cola": {
+   "f_elsa": "cola.mp3",
+   "f_isabella": "cola.mp3",
+   "m_diego": "cola.mp3"
+  },
+  "collo": {
+   "f_elsa": "collo.mp3",
+   "f_isabella": "collo.mp3",
+   "m_diego": "collo.mp3"
+  },
+  "colo": {
+   "f_elsa": "colo.mp3",
+   "f_isabella": "colo.mp3",
+   "m_diego": "colo.mp3"
+  },
+  "colpo": {
+   "f_elsa": "colpo.mp3",
+   "f_isabella": "colpo.mp3",
+   "m_diego": "colpo.mp3"
+  },
+  "cono": {
+   "f_elsa": "cono.mp3",
+   "f_isabella": "cono.mp3",
+   "m_diego": "cono.mp3"
+  },
+  "coppa": {
+   "f_elsa": "coppa.mp3",
+   "f_isabella": "coppa.mp3",
+   "m_diego": "coppa.mp3"
+  },
+  "corda": {
+   "f_elsa": "corda.mp3",
+   "f_isabella": "corda.mp3",
+   "m_diego": "corda.mp3"
+  },
+  "coro": {
+   "f_elsa": "coro.mp3",
+   "f_isabella": "coro.mp3",
+   "m_diego": "coro.mp3"
+  },
+  "corpo": {
+   "f_elsa": "corpo.mp3",
+   "f_isabella": "corpo.mp3",
+   "m_diego": "corpo.mp3"
+  },
+  "corre": {
+   "f_elsa": "corre.mp3",
+   "f_isabella": "corre.mp3",
+   "m_diego": "corre.mp3"
+  },
+  "corta": {
+   "f_elsa": "corta.mp3",
+   "f_isabella": "corta.mp3",
+   "m_diego": "corta.mp3"
+  },
+  "cotta": {
+   "f_elsa": "cotta.mp3",
+   "f_isabella": "cotta.mp3",
+   "m_diego": "cotta.mp3"
+  },
+  "cozza": {
+   "f_elsa": "cozza.mp3",
+   "f_isabella": "cozza.mp3",
+   "m_diego": "cozza.mp3"
+  },
+  "crema": {
+   "f_elsa": "crema.mp3",
+   "f_isabella": "crema.mp3",
+   "m_diego": "crema.mp3"
+  },
+  "cubetto": {
+   "f_elsa": "cubetto.mp3",
+   "f_isabella": "cubetto.mp3",
+   "m_diego": "cubetto.mp3"
+  },
+  "cubo": {
+   "f_elsa": "cubo.mp3",
+   "f_isabella": "cubo.mp3",
+   "m_diego": "cubo.mp3"
+  },
+  "da": {
+   "f_elsa": "da.mp3",
+   "f_isabella": "da.mp3",
+   "m_diego": "da.mp3"
+  },
+  "dado": {
+   "f_elsa": "dado.mp3",
+   "f_isabella": "dado.mp3",
+   "m_diego": "dado.mp3"
+  },
+  "daino": {
+   "f_elsa": "daino.mp3",
+   "f_isabella": "daino.mp3",
+   "m_diego": "daino.mp3"
+  },
+  "dama": {
+   "f_elsa": "dama.mp3",
+   "f_isabella": "dama.mp3",
+   "m_diego": "dama.mp3"
+  },
+  "data": {
+   "f_elsa": "data.mp3",
+   "f_isabella": "data.mp3",
+   "m_diego": "data.mp3"
+  },
+  "dente": {
+   "f_elsa": "dente.mp3",
+   "f_isabella": "dente.mp3",
+   "m_diego": "dente.mp3"
+  },
+  "deve": {
+   "f_elsa": "deve.mp3",
+   "f_isabella": "deve.mp3",
+   "m_diego": "deve.mp3"
+  },
+  "di": {
+   "f_elsa": "di.mp3",
+   "f_isabella": "di.mp3",
+   "m_diego": "di.mp3"
+  },
+  "dio": {
+   "f_elsa": "dio.mp3",
+   "f_isabella": "dio.mp3",
+   "m_diego": "dio.mp3"
+  },
+  "dita": {
+   "f_elsa": "dita.mp3",
+   "f_isabella": "dita.mp3",
+   "m_diego": "dita.mp3"
+  },
+  "dito": {
+   "f_elsa": "dito.mp3",
+   "f_isabella": "dito.mp3",
+   "m_diego": "dito.mp3"
+  },
+  "doccia": {
+   "f_elsa": "doccia.mp3",
+   "f_isabella": "doccia.mp3",
+   "m_diego": "doccia.mp3"
+  },
+  "doma": {
+   "f_elsa": "doma.mp3",
+   "f_isabella": "doma.mp3",
+   "m_diego": "doma.mp3"
+  },
+  "dona": {
+   "f_elsa": "dona.mp3",
+   "f_isabella": "dona.mp3",
+   "m_diego": "dona.mp3"
+  },
+  "donna": {
+   "f_elsa": "donna.mp3",
+   "f_isabella": "donna.mp3",
+   "m_diego": "donna.mp3"
+  },
+  "dono": {
+   "f_elsa": "dono.mp3",
+   "f_isabella": "dono.mp3",
+   "m_diego": "dono.mp3"
+  },
+  "dopo": {
+   "f_elsa": "dopo.mp3",
+   "f_isabella": "dopo.mp3",
+   "m_diego": "dopo.mp3"
+  },
+  "dosa": {
+   "f_elsa": "dosa.mp3",
+   "f_isabella": "dosa.mp3",
+   "m_diego": "dosa.mp3"
+  },
+  "duca": {
+   "f_elsa": "duca.mp3",
+   "f_isabella": "duca.mp3",
+   "m_diego": "duca.mp3"
+  },
+  "due": {
+   "f_elsa": "due.mp3",
+   "f_isabella": "due.mp3",
+   "m_diego": "due.mp3"
+  },
+  "duna": {
+   "f_elsa": "duna.mp3",
+   "f_isabella": "duna.mp3",
+   "m_diego": "duna.mp3"
+  },
+  "fa": {
+   "f_elsa": "fa.mp3",
+   "f_isabella": "fa.mp3",
+   "m_diego": "fa.mp3"
+  },
+  "facchino": {
+   "f_elsa": "facchino.mp3",
+   "f_isabella": "facchino.mp3",
+   "m_diego": "facchino.mp3"
+  },
+  "faggio": {
+   "f_elsa": "faggio.mp3",
+   "f_isabella": "faggio.mp3",
+   "m_diego": "faggio.mp3"
+  },
+  "falco": {
+   "f_elsa": "falco.mp3",
+   "f_isabella": "falco.mp3",
+   "m_diego": "falco.mp3"
+  },
+  "falla": {
+   "f_elsa": "falla.mp3",
+   "f_isabella": "falla.mp3",
+   "m_diego": "falla.mp3"
+  },
+  "falsa": {
+   "f_elsa": "falsa.mp3",
+   "f_isabella": "falsa.mp3",
+   "m_diego": "falsa.mp3"
+  },
+  "fantino": {
+   "f_elsa": "fantino.mp3",
+   "f_isabella": "fantino.mp3",
+   "m_diego": "fantino.mp3"
+  },
+  "faro": {
+   "f_elsa": "faro.mp3",
+   "f_isabella": "faro.mp3",
+   "m_diego": "faro.mp3"
+  },
+  "fede": {
+   "f_elsa": "fede.mp3",
+   "f_isabella": "fede.mp3",
+   "m_diego": "fede.mp3"
+  },
+  "fermi": {
+   "f_elsa": "fermi.mp3",
+   "f_isabella": "fermi.mp3",
+   "m_diego": "fermi.mp3"
+  },
+  "festa": {
+   "f_elsa": "festa.mp3",
+   "f_isabella": "festa.mp3",
+   "m_diego": "festa.mp3"
+  },
+  "fetta": {
+   "f_elsa": "fetta.mp3",
+   "f_isabella": "fetta.mp3",
+   "m_diego": "fetta.mp3"
+  },
+  "fette": {
+   "f_elsa": "fette.mp3",
+   "f_isabella": "fette.mp3",
+   "m_diego": "fette.mp3"
+  },
+  "fi": {
+   "f_elsa": "fi.mp3",
+   "f_isabella": "fi.mp3",
+   "m_diego": "fi.mp3"
+  },
+  "fiale": {
+   "f_elsa": "fiale.mp3",
+   "f_isabella": "fiale.mp3",
+   "m_diego": "fiale.mp3"
+  },
+  "fico": {
+   "f_elsa": "fico.mp3",
+   "f_isabella": "fico.mp3",
+   "m_diego": "fico.mp3"
+  },
+  "fila": {
+   "f_elsa": "fila.mp3",
+   "f_isabella": "fila.mp3",
+   "m_diego": "fila.mp3"
+  },
+  "filo": {
+   "f_elsa": "filo.mp3",
+   "f_isabella": "filo.mp3",
+   "m_diego": "filo.mp3"
+  },
+  "fine": {
+   "f_elsa": "fine.mp3",
+   "f_isabella": "fine.mp3",
+   "m_diego": "fine.mp3"
+  },
+  "fino": {
+   "f_elsa": "fino.mp3",
+   "f_isabella": "fino.mp3",
+   "m_diego": "fino.mp3"
+  },
+  "fiume": {
+   "f_elsa": "fiume.mp3",
+   "f_isabella": "fiume.mp3",
+   "m_diego": "fiume.mp3"
+  },
+  "foca": {
+   "f_elsa": "foca.mp3",
+   "f_isabella": "foca.mp3",
+   "m_diego": "foca.mp3"
+  },
+  "foce": {
+   "f_elsa": "foce.mp3",
+   "f_isabella": "foce.mp3",
+   "m_diego": "foce.mp3"
+  },
+  "foglia": {
+   "f_elsa": "foglia.mp3",
+   "f_isabella": "foglia.mp3",
+   "m_diego": "foglia.mp3"
+  },
+  "fondina": {
+   "f_elsa": "fondina.mp3",
+   "f_isabella": "fondina.mp3",
+   "m_diego": "fondina.mp3"
+  },
+  "fontina": {
+   "f_elsa": "fontina.mp3",
+   "f_isabella": "fontina.mp3",
+   "m_diego": "fontina.mp3"
+  },
+  "fori": {
+   "f_elsa": "fori.mp3",
+   "f_isabella": "fori.mp3",
+   "m_diego": "fori.mp3"
+  },
+  "foro": {
+   "f_elsa": "foro.mp3",
+   "f_isabella": "foro.mp3",
+   "m_diego": "foro.mp3"
+  },
+  "forte": {
+   "f_elsa": "forte.mp3",
+   "f_isabella": "forte.mp3",
+   "m_diego": "forte.mp3"
+  },
+  "foto": {
+   "f_elsa": "foto.mp3",
+   "f_isabella": "foto.mp3",
+   "m_diego": "foto.mp3"
+  },
+  "fredda": {
+   "f_elsa": "fredda.mp3",
+   "f_isabella": "fredda.mp3",
+   "m_diego": "fredda.mp3"
+  },
+  "frega": {
+   "f_elsa": "frega.mp3",
+   "f_isabella": "frega.mp3",
+   "m_diego": "frega.mp3"
+  },
+  "fretta": {
+   "f_elsa": "fretta.mp3",
+   "f_isabella": "fretta.mp3",
+   "m_diego": "fretta.mp3"
+  },
+  "fuma": {
+   "f_elsa": "fuma.mp3",
+   "f_isabella": "fuma.mp3",
+   "m_diego": "fuma.mp3"
+  },
+  "gallo": {
+   "f_elsa": "gallo.mp3",
+   "f_isabella": "gallo.mp3",
+   "m_diego": "gallo.mp3"
+  },
+  "gara": {
+   "f_elsa": "gara.mp3",
+   "f_isabella": "gara.mp3",
+   "m_diego": "gara.mp3"
+  },
+  "gatte": {
+   "f_elsa": "gatte.mp3",
+   "f_isabella": "gatte.mp3",
+   "m_diego": "gatte.mp3"
+  },
+  "geco": {
+   "f_elsa": "geco.mp3",
+   "f_isabella": "geco.mp3",
+   "m_diego": "geco.mp3"
+  },
+  "gelo": {
+   "f_elsa": "gelo.mp3",
+   "f_isabella": "gelo.mp3",
+   "m_diego": "gelo.mp3"
+  },
+  "gente": {
+   "f_elsa": "gente.mp3",
+   "f_isabella": "gente.mp3",
+   "m_diego": "gente.mp3"
+  },
+  "gesto": {
+   "f_elsa": "gesto.mp3",
+   "f_isabella": "gesto.mp3",
+   "m_diego": "gesto.mp3"
+  },
+  "ghiro": {
+   "f_elsa": "ghiro.mp3",
+   "f_isabella": "ghiro.mp3",
+   "m_diego": "ghiro.mp3"
+  },
+  "gita": {
+   "f_elsa": "gita.mp3",
+   "f_isabella": "gita.mp3",
+   "m_diego": "gita.mp3"
+  },
+  "go": {
+   "f_elsa": "go.mp3",
+   "f_isabella": "go.mp3",
+   "m_diego": "go.mp3"
+  },
+  "gobba": {
+   "f_elsa": "gobba.mp3",
+   "f_isabella": "gobba.mp3",
+   "m_diego": "gobba.mp3"
+  },
+  "goccia": {
+   "f_elsa": "goccia.mp3",
+   "f_isabella": "goccia.mp3",
+   "m_diego": "goccia.mp3"
+  },
+  "gola": {
+   "f_elsa": "gola.mp3",
+   "f_isabella": "gola.mp3",
+   "m_diego": "gola.mp3"
+  },
+  "gomma": {
+   "f_elsa": "gomma.mp3",
+   "f_isabella": "gomma.mp3",
+   "m_diego": "gomma.mp3"
+  },
+  "gonna": {
+   "f_elsa": "gonna.mp3",
+   "f_isabella": "gonna.mp3",
+   "m_diego": "gonna.mp3"
+  },
+  "guanti": {
+   "f_elsa": "guanti.mp3",
+   "f_isabella": "guanti.mp3",
+   "m_diego": "guanti.mp3"
+  },
+  "inferno": {
+   "f_elsa": "inferno.mp3",
+   "f_isabella": "inferno.mp3",
+   "m_diego": "inferno.mp3"
+  },
+  "inverno": {
+   "f_elsa": "inverno.mp3",
+   "f_isabella": "inverno.mp3",
+   "m_diego": "inverno.mp3"
+  },
+  "la": {
+   "f_elsa": "la.mp3",
+   "f_isabella": "la.mp3",
+   "m_diego": "la.mp3"
+  },
+  "lacca": {
+   "f_elsa": "lacca.mp3",
+   "f_isabella": "lacca.mp3",
+   "m_diego": "lacca.mp3"
+  },
+  "lacche": {
+   "f_elsa": "lacche.mp3",
+   "f_isabella": "lacche.mp3",
+   "m_diego": "lacche.mp3"
+  },
+  "lama": {
+   "f_elsa": "lama.mp3",
+   "f_isabella": "lama.mp3",
+   "m_diego": "lama.mp3"
+  },
+  "lana": {
+   "f_elsa": "lana.mp3",
+   "f_isabella": "lana.mp3",
+   "m_diego": "lana.mp3"
+  },
+  "latta": {
+   "f_elsa": "latta.mp3",
+   "f_isabella": "latta.mp3",
+   "m_diego": "latta.mp3"
+  },
+  "latte": {
+   "f_elsa": "latte.mp3",
+   "f_isabella": "latte.mp3",
+   "m_diego": "latte.mp3"
+  },
+  "lazzo": {
+   "f_elsa": "lazzo.mp3",
+   "f_isabella": "lazzo.mp3",
+   "m_diego": "lazzo.mp3"
+  },
+  "legno": {
+   "f_elsa": "legno.mp3",
+   "f_isabella": "legno.mp3",
+   "m_diego": "legno.mp3"
+  },
+  "lente": {
+   "f_elsa": "lente.mp3",
+   "f_isabella": "lente.mp3",
+   "m_diego": "lente.mp3"
+  },
+  "letto": {
+   "f_elsa": "letto.mp3",
+   "f_isabella": "letto.mp3",
+   "m_diego": "letto.mp3"
+  },
+  "lido": {
+   "f_elsa": "lido.mp3",
+   "f_isabella": "lido.mp3",
+   "m_diego": "lido.mp3"
+  },
+  "lotta": {
+   "f_elsa": "lotta.mp3",
+   "f_isabella": "lotta.mp3",
+   "m_diego": "lotta.mp3"
+  },
+  "lu": {
+   "f_elsa": "lu.mp3",
+   "f_isabella": "lu.mp3",
+   "m_diego": "lu.mp3"
+  },
+  "luca": {
+   "f_elsa": "luca.mp3",
+   "f_isabella": "luca.mp3",
+   "m_diego": "luca.mp3"
+  },
+  "lume": {
+   "f_elsa": "lume.mp3",
+   "f_isabella": "lume.mp3",
+   "m_diego": "lume.mp3"
+  },
+  "luna": {
+   "f_elsa": "luna.mp3",
+   "f_isabella": "luna.mp3",
+   "m_diego": "luna.mp3"
+  },
+  "lune": {
+   "f_elsa": "lune.mp3",
+   "f_isabella": "lune.mp3",
+   "m_diego": "lune.mp3"
+  },
+  "ma": {
+   "f_elsa": "ma.mp3",
+   "f_isabella": "ma.mp3",
+   "m_diego": "ma.mp3"
+  },
+  "male": {
+   "f_elsa": "male.mp3",
+   "f_isabella": "male.mp3",
+   "m_diego": "male.mp3"
+  },
+  "mamma": {
+   "f_elsa": "mamma.mp3",
+   "f_isabella": "mamma.mp3",
+   "m_diego": "mamma.mp3"
+  },
+  "manca": {
+   "f_elsa": "manca.mp3",
+   "f_isabella": "manca.mp3",
+   "m_diego": "manca.mp3"
+  },
+  "mancia": {
+   "f_elsa": "mancia.mp3",
+   "f_isabella": "mancia.mp3",
+   "m_diego": "mancia.mp3"
+  },
+  "mangia": {
+   "f_elsa": "mangia.mp3",
+   "f_isabella": "mangia.mp3",
+   "m_diego": "mangia.mp3"
+  },
+  "mare": {
+   "f_elsa": "mare.mp3",
+   "f_isabella": "mare.mp3",
+   "m_diego": "mare.mp3"
+  },
+  "massi": {
+   "f_elsa": "massi.mp3",
+   "f_isabella": "massi.mp3",
+   "m_diego": "massi.mp3"
+  },
+  "matte": {
+   "f_elsa": "matte.mp3",
+   "f_isabella": "matte.mp3",
+   "m_diego": "matte.mp3"
+  },
+  "mela": {
+   "f_elsa": "mela.mp3",
+   "f_isabella": "mela.mp3",
+   "m_diego": "mela.mp3"
+  },
+  "melo": {
+   "f_elsa": "melo.mp3",
+   "f_isabella": "melo.mp3",
+   "m_diego": "melo.mp3"
+  },
+  "meno": {
+   "f_elsa": "meno.mp3",
+   "f_isabella": "meno.mp3",
+   "m_diego": "meno.mp3"
+  },
+  "mici": {
+   "f_elsa": "mici.mp3",
+   "f_isabella": "mici.mp3",
+   "m_diego": "mici.mp3"
+  },
+  "mobile": {
+   "f_elsa": "mobile.mp3",
+   "f_isabella": "mobile.mp3",
+   "m_diego": "mobile.mp3"
+  },
+  "molle": {
+   "f_elsa": "molle.mp3",
+   "f_isabella": "molle.mp3",
+   "m_diego": "molle.mp3"
+  },
+  "morsa": {
+   "f_elsa": "morsa.mp3",
+   "f_isabella": "morsa.mp3",
+   "m_diego": "morsa.mp3"
+  },
+  "mostro": {
+   "f_elsa": "mostro.mp3",
+   "f_isabella": "mostro.mp3",
+   "m_diego": "mostro.mp3"
+  },
+  "mulo": {
+   "f_elsa": "mulo.mp3",
+   "f_isabella": "mulo.mp3",
+   "m_diego": "mulo.mp3"
+  },
+  "muro": {
+   "f_elsa": "muro.mp3",
+   "f_isabella": "muro.mp3",
+   "m_diego": "muro.mp3"
+  },
+  "na": {
+   "f_elsa": "na.mp3",
+   "f_isabella": "na.mp3",
+   "m_diego": "na.mp3"
+  },
+  "nana": {
+   "f_elsa": "nana.mp3",
+   "f_isabella": "nana.mp3",
+   "m_diego": "nana.mp3"
+  },
+  "nanna": {
+   "f_elsa": "nanna.mp3",
+   "f_isabella": "nanna.mp3",
+   "m_diego": "nanna.mp3"
+  },
+  "nano": {
+   "f_elsa": "nano.mp3",
+   "f_isabella": "nano.mp3",
+   "m_diego": "nano.mp3"
+  },
+  "nata": {
+   "f_elsa": "nata.mp3",
+   "f_isabella": "nata.mp3",
+   "m_diego": "nata.mp3"
+  },
+  "netto": {
+   "f_elsa": "netto.mp3",
+   "f_isabella": "netto.mp3",
+   "m_diego": "netto.mp3"
+  },
+  "neve": {
+   "f_elsa": "neve.mp3",
+   "f_isabella": "neve.mp3",
+   "m_diego": "neve.mp3"
+  },
+  "nido": {
+   "f_elsa": "nido.mp3",
+   "f_isabella": "nido.mp3",
+   "m_diego": "nido.mp3"
+  },
+  "nobile": {
+   "f_elsa": "nobile.mp3",
+   "f_isabella": "nobile.mp3",
+   "m_diego": "nobile.mp3"
+  },
+  "nonna": {
+   "f_elsa": "nonna.mp3",
+   "f_isabella": "nonna.mp3",
+   "m_diego": "nonna.mp3"
+  },
+  "nono": {
+   "f_elsa": "nono.mp3",
+   "f_isabella": "nono.mp3",
+   "m_diego": "nono.mp3"
+  },
+  "nostro": {
+   "f_elsa": "nostro.mp3",
+   "f_isabella": "nostro.mp3",
+   "m_diego": "nostro.mp3"
+  },
+  "nuca": {
+   "f_elsa": "nuca.mp3",
+   "f_isabella": "nuca.mp3",
+   "m_diego": "nuca.mp3"
+  },
+  "orco": {
+   "f_elsa": "orco.mp3",
+   "f_isabella": "orco.mp3",
+   "m_diego": "orco.mp3"
+  },
+  "orso": {
+   "f_elsa": "orso.mp3",
+   "f_isabella": "orso.mp3",
+   "m_diego": "orso.mp3"
+  },
+  "orto": {
+   "f_elsa": "orto.mp3",
+   "f_isabella": "orto.mp3",
+   "m_diego": "orto.mp3"
+  },
+  "osso": {
+   "f_elsa": "osso.mp3",
+   "f_isabella": "osso.mp3",
+   "m_diego": "osso.mp3"
+  },
+  "otto": {
+   "f_elsa": "otto.mp3",
+   "f_isabella": "otto.mp3",
+   "m_diego": "otto.mp3"
+  },
+  "pa": {
+   "f_elsa": "pa.mp3",
+   "f_isabella": "pa.mp3",
+   "m_diego": "pa.mp3"
+  },
+  "pacco": {
+   "f_elsa": "pacco.mp3",
+   "f_isabella": "pacco.mp3",
+   "m_diego": "pacco.mp3"
+  },
+  "paglia": {
+   "f_elsa": "paglia.mp3",
+   "f_isabella": "paglia.mp3",
+   "m_diego": "paglia.mp3"
+  },
+  "pala": {
+   "f_elsa": "pala.mp3",
+   "f_isabella": "pala.mp3",
+   "m_diego": "pala.mp3"
+  },
+  "palco": {
+   "f_elsa": "palco.mp3",
+   "f_isabella": "palco.mp3",
+   "m_diego": "palco.mp3"
+  },
+  "pale": {
+   "f_elsa": "pale.mp3",
+   "f_isabella": "pale.mp3",
+   "m_diego": "pale.mp3"
+  },
+  "palla": {
+   "f_elsa": "palla.mp3",
+   "f_isabella": "palla.mp3",
+   "m_diego": "palla.mp3"
+  },
+  "pallone": {
+   "f_elsa": "pallone.mp3",
+   "f_isabella": "pallone.mp3",
+   "m_diego": "pallone.mp3"
+  },
+  "panca": {
+   "f_elsa": "panca.mp3",
+   "f_isabella": "panca.mp3",
+   "m_diego": "panca.mp3"
+  },
+  "panda": {
+   "f_elsa": "panda.mp3",
+   "f_isabella": "panda.mp3",
+   "m_diego": "panda.mp3"
+  },
+  "pane": {
+   "f_elsa": "pane.mp3",
+   "f_isabella": "pane.mp3",
+   "m_diego": "pane.mp3"
+  },
+  "panna": {
+   "f_elsa": "panna.mp3",
+   "f_isabella": "panna.mp3",
+   "m_diego": "panna.mp3"
+  },
+  "para": {
+   "f_elsa": "para.mp3",
+   "f_isabella": "para.mp3",
+   "m_diego": "para.mp3"
+  },
+  "parco": {
+   "f_elsa": "parco.mp3",
+   "f_isabella": "parco.mp3",
+   "m_diego": "parco.mp3"
+  },
+  "pare": {
+   "f_elsa": "pare.mp3",
+   "f_isabella": "pare.mp3",
+   "m_diego": "pare.mp3"
+  },
+  "paro": {
+   "f_elsa": "paro.mp3",
+   "f_isabella": "paro.mp3",
+   "m_diego": "paro.mp3"
+  },
+  "parte": {
+   "f_elsa": "parte.mp3",
+   "f_isabella": "parte.mp3",
+   "m_diego": "parte.mp3"
+  },
+  "pasta": {
+   "f_elsa": "pasta.mp3",
+   "f_isabella": "pasta.mp3",
+   "m_diego": "pasta.mp3"
+  },
+  "pastello": {
+   "f_elsa": "pastello.mp3",
+   "f_isabella": "pastello.mp3",
+   "m_diego": "pastello.mp3"
+  },
+  "patto": {
+   "f_elsa": "patto.mp3",
+   "f_isabella": "patto.mp3",
+   "m_diego": "patto.mp3"
+  },
+  "pazzo": {
+   "f_elsa": "pazzo.mp3",
+   "f_isabella": "pazzo.mp3",
+   "m_diego": "pazzo.mp3"
+  },
+  "pela": {
+   "f_elsa": "pela.mp3",
+   "f_isabella": "pela.mp3",
+   "m_diego": "pela.mp3"
+  },
+  "pelle": {
+   "f_elsa": "pelle.mp3",
+   "f_isabella": "pelle.mp3",
+   "m_diego": "pelle.mp3"
+  },
+  "pelo": {
+   "f_elsa": "pelo.mp3",
+   "f_isabella": "pelo.mp3",
+   "m_diego": "pelo.mp3"
+  },
+  "pendola": {
+   "f_elsa": "pendola.mp3",
+   "f_isabella": "pendola.mp3",
+   "m_diego": "pendola.mp3"
+  },
+  "penne": {
+   "f_elsa": "penne.mp3",
+   "f_isabella": "penne.mp3",
+   "m_diego": "penne.mp3"
+  },
+  "pentola": {
+   "f_elsa": "pentola.mp3",
+   "f_isabella": "pentola.mp3",
+   "m_diego": "pentola.mp3"
+  },
+  "penzola": {
+   "f_elsa": "penzola.mp3",
+   "f_isabella": "penzola.mp3",
+   "m_diego": "penzola.mp3"
+  },
+  "pera": {
+   "f_elsa": "pera.mp3",
+   "f_isabella": "pera.mp3",
+   "m_diego": "pera.mp3"
+  },
+  "pere": {
+   "f_elsa": "pere.mp3",
+   "f_isabella": "pere.mp3",
+   "m_diego": "pere.mp3"
+  },
+  "pesta": {
+   "f_elsa": "pesta.mp3",
+   "f_isabella": "pesta.mp3",
+   "m_diego": "pesta.mp3"
+  },
+  "petto": {
+   "f_elsa": "petto.mp3",
+   "f_isabella": "petto.mp3",
+   "m_diego": "petto.mp3"
+  },
+  "pezzo": {
+   "f_elsa": "pezzo.mp3",
+   "f_isabella": "pezzo.mp3",
+   "m_diego": "pezzo.mp3"
+  },
+  "pi": {
+   "f_elsa": "pi.mp3",
+   "f_isabella": "pi.mp3",
+   "m_diego": "pi.mp3"
+  },
+  "piede": {
+   "f_elsa": "piede.mp3",
+   "f_isabella": "piede.mp3",
+   "m_diego": "piede.mp3"
+  },
+  "pieghe": {
+   "f_elsa": "pieghe.mp3",
+   "f_isabella": "pieghe.mp3",
+   "m_diego": "pieghe.mp3"
+  },
+  "piene": {
+   "f_elsa": "piene.mp3",
+   "f_isabella": "piene.mp3",
+   "m_diego": "piene.mp3"
+  },
+  "pigre": {
+   "f_elsa": "pigre.mp3",
+   "f_isabella": "pigre.mp3",
+   "m_diego": "pigre.mp3"
+  },
+  "pila": {
+   "f_elsa": "pila.mp3",
+   "f_isabella": "pila.mp3",
+   "m_diego": "pila.mp3"
+  },
+  "pino": {
+   "f_elsa": "pino.mp3",
+   "f_isabella": "pino.mp3",
+   "m_diego": "pino.mp3"
+  },
+  "piume": {
+   "f_elsa": "piume.mp3",
+   "f_isabella": "piume.mp3",
+   "m_diego": "piume.mp3"
+  },
+  "po": {
+   "f_elsa": "po.mp3",
+   "f_isabella": "po.mp3",
+   "m_diego": "po.mp3"
+  },
+  "poca": {
+   "f_elsa": "poca.mp3",
+   "f_isabella": "poca.mp3",
+   "m_diego": "poca.mp3"
+  },
+  "poli": {
+   "f_elsa": "poli.mp3",
+   "f_isabella": "poli.mp3",
+   "m_diego": "poli.mp3"
+  },
+  "pollo": {
+   "f_elsa": "pollo.mp3",
+   "f_isabella": "pollo.mp3",
+   "m_diego": "pollo.mp3"
+  },
+  "polo": {
+   "f_elsa": "polo.mp3",
+   "f_isabella": "polo.mp3",
+   "m_diego": "polo.mp3"
+  },
+  "pompa": {
+   "f_elsa": "pompa.mp3",
+   "f_isabella": "pompa.mp3",
+   "m_diego": "pompa.mp3"
+  },
+  "pori": {
+   "f_elsa": "pori.mp3",
+   "f_isabella": "pori.mp3",
+   "m_diego": "pori.mp3"
+  },
+  "porro": {
+   "f_elsa": "porro.mp3",
+   "f_isabella": "porro.mp3",
+   "m_diego": "porro.mp3"
+  },
+  "porta": {
+   "f_elsa": "porta.mp3",
+   "f_isabella": "porta.mp3",
+   "m_diego": "porta.mp3"
+  },
+  "porte": {
+   "f_elsa": "porte.mp3",
+   "f_isabella": "porte.mp3",
+   "m_diego": "porte.mp3"
+  },
+  "prega": {
+   "f_elsa": "prega.mp3",
+   "f_isabella": "prega.mp3",
+   "m_diego": "prega.mp3"
+  },
+  "puma": {
+   "f_elsa": "puma.mp3",
+   "f_isabella": "puma.mp3",
+   "m_diego": "puma.mp3"
+  },
+  "quanti": {
+   "f_elsa": "quanti.mp3",
+   "f_isabella": "quanti.mp3",
+   "m_diego": "quanti.mp3"
+  },
+  "ra": {
+   "f_elsa": "ra.mp3",
+   "f_isabella": "ra.mp3",
+   "m_diego": "ra.mp3"
+  },
+  "rana": {
+   "f_elsa": "rana.mp3",
+   "f_isabella": "rana.mp3",
+   "m_diego": "rana.mp3"
+  },
+  "ratto": {
+   "f_elsa": "ratto.mp3",
+   "f_isabella": "ratto.mp3",
+   "m_diego": "ratto.mp3"
+  },
+  "razzo": {
+   "f_elsa": "razzo.mp3",
+   "f_isabella": "razzo.mp3",
+   "m_diego": "razzo.mp3"
+  },
+  "regno": {
+   "f_elsa": "regno.mp3",
+   "f_isabella": "regno.mp3",
+   "m_diego": "regno.mp3"
+  },
+  "remi": {
+   "f_elsa": "remi.mp3",
+   "f_isabella": "remi.mp3",
+   "m_diego": "remi.mp3"
+  },
+  "reni": {
+   "f_elsa": "reni.mp3",
+   "f_isabella": "reni.mp3",
+   "m_diego": "reni.mp3"
+  },
+  "ride": {
+   "f_elsa": "ride.mp3",
+   "f_isabella": "ride.mp3",
+   "m_diego": "ride.mp3"
+  },
+  "righe": {
+   "f_elsa": "righe.mp3",
+   "f_isabella": "righe.mp3",
+   "m_diego": "righe.mp3"
+  },
+  "rocca": {
+   "f_elsa": "rocca.mp3",
+   "f_isabella": "rocca.mp3",
+   "m_diego": "rocca.mp3"
+  },
+  "rossa": {
+   "f_elsa": "rossa.mp3",
+   "f_isabella": "rossa.mp3",
+   "m_diego": "rossa.mp3"
+  },
+  "rotta": {
+   "f_elsa": "rotta.mp3",
+   "f_isabella": "rotta.mp3",
+   "m_diego": "rotta.mp3"
+  },
+  "ru": {
+   "f_elsa": "ru.mp3",
+   "f_isabella": "ru.mp3",
+   "m_diego": "ru.mp3"
+  },
+  "ruba": {
+   "f_elsa": "ruba.mp3",
+   "f_isabella": "ruba.mp3",
+   "m_diego": "ruba.mp3"
+  },
+  "ruga": {
+   "f_elsa": "ruga.mp3",
+   "f_isabella": "ruga.mp3",
+   "m_diego": "ruga.mp3"
+  },
+  "sa": {
+   "f_elsa": "sa.mp3",
+   "f_isabella": "sa.mp3",
+   "m_diego": "sa.mp3"
+  },
+  "sacco": {
+   "f_elsa": "sacco.mp3",
+   "f_isabella": "sacco.mp3",
+   "m_diego": "sacco.mp3"
+  },
+  "saggio": {
+   "f_elsa": "saggio.mp3",
+   "f_isabella": "saggio.mp3",
+   "m_diego": "saggio.mp3"
+  },
+  "salda": {
+   "f_elsa": "salda.mp3",
+   "f_isabella": "salda.mp3",
+   "m_diego": "salda.mp3"
+  },
+  "sale": {
+   "f_elsa": "sale.mp3",
+   "f_isabella": "sale.mp3",
+   "m_diego": "sale.mp3"
+  },
+  "salta": {
+   "f_elsa": "salta.mp3",
+   "f_isabella": "salta.mp3",
+   "m_diego": "salta.mp3"
+  },
+  "santino": {
+   "f_elsa": "santino.mp3",
+   "f_isabella": "santino.mp3",
+   "m_diego": "santino.mp3"
+  },
+  "sarda": {
+   "f_elsa": "sarda.mp3",
+   "f_isabella": "sarda.mp3",
+   "m_diego": "sarda.mp3"
+  },
+  "sarta": {
+   "f_elsa": "sarta.mp3",
+   "f_isabella": "sarta.mp3",
+   "m_diego": "sarta.mp3"
+  },
+  "sedano": {
+   "f_elsa": "sedano.mp3",
+   "f_isabella": "sedano.mp3",
+   "m_diego": "sedano.mp3"
+  },
+  "segano": {
+   "f_elsa": "segano.mp3",
+   "f_isabella": "segano.mp3",
+   "m_diego": "segano.mp3"
+  },
+  "sella": {
+   "f_elsa": "sella.mp3",
+   "f_isabella": "sella.mp3",
+   "m_diego": "sella.mp3"
+  },
+  "serra": {
+   "f_elsa": "serra.mp3",
+   "f_isabella": "serra.mp3",
+   "m_diego": "serra.mp3"
+  },
+  "sette": {
+   "f_elsa": "sette.mp3",
+   "f_isabella": "sette.mp3",
+   "m_diego": "sette.mp3"
+  },
+  "sodo": {
+   "f_elsa": "sodo.mp3",
+   "f_isabella": "sodo.mp3",
+   "m_diego": "sodo.mp3"
+  },
+  "soglia": {
+   "f_elsa": "soglia.mp3",
+   "f_isabella": "soglia.mp3",
+   "m_diego": "soglia.mp3"
+  },
+  "soldo": {
+   "f_elsa": "soldo.mp3",
+   "f_isabella": "soldo.mp3",
+   "m_diego": "soldo.mp3"
+  },
+  "sole": {
+   "f_elsa": "sole.mp3",
+   "f_isabella": "sole.mp3",
+   "m_diego": "sole.mp3"
+  },
+  "solo": {
+   "f_elsa": "solo.mp3",
+   "f_isabella": "solo.mp3",
+   "m_diego": "solo.mp3"
+  },
+  "sonno": {
+   "f_elsa": "sonno.mp3",
+   "f_isabella": "sonno.mp3",
+   "m_diego": "sonno.mp3"
+  },
+  "sordo": {
+   "f_elsa": "sordo.mp3",
+   "f_isabella": "sordo.mp3",
+   "m_diego": "sordo.mp3"
+  },
+  "spala": {
+   "f_elsa": "spala.mp3",
+   "f_isabella": "spala.mp3",
+   "m_diego": "spala.mp3"
+  },
+  "spara": {
+   "f_elsa": "spara.mp3",
+   "f_isabella": "spara.mp3",
+   "m_diego": "spara.mp3"
+  },
+  "suola": {
+   "f_elsa": "suola.mp3",
+   "f_isabella": "suola.mp3",
+   "m_diego": "suola.mp3"
+  },
+  "suora": {
+   "f_elsa": "suora.mp3",
+   "f_isabella": "suora.mp3",
+   "m_diego": "suora.mp3"
+  },
+  "ta": {
+   "f_elsa": "ta.mp3",
+   "f_isabella": "ta.mp3",
+   "m_diego": "ta.mp3"
+  },
+  "tacchino": {
+   "f_elsa": "tacchino.mp3",
+   "f_isabella": "tacchino.mp3",
+   "m_diego": "tacchino.mp3"
+  },
+  "tacco": {
+   "f_elsa": "tacco.mp3",
+   "f_isabella": "tacco.mp3",
+   "m_diego": "tacco.mp3"
+  },
+  "taglia": {
+   "f_elsa": "taglia.mp3",
+   "f_isabella": "taglia.mp3",
+   "m_diego": "taglia.mp3"
+  },
+  "talco": {
+   "f_elsa": "talco.mp3",
+   "f_isabella": "talco.mp3",
+   "m_diego": "talco.mp3"
+  },
+  "tallone": {
+   "f_elsa": "tallone.mp3",
+   "f_isabella": "tallone.mp3",
+   "m_diego": "tallone.mp3"
+  },
+  "tane": {
+   "f_elsa": "tane.mp3",
+   "f_isabella": "tane.mp3",
+   "m_diego": "tane.mp3"
+  },
+  "tappa": {
+   "f_elsa": "tappa.mp3",
+   "f_isabella": "tappa.mp3",
+   "m_diego": "tappa.mp3"
+  },
+  "tavolo": {
+   "f_elsa": "tavolo.mp3",
+   "f_isabella": "tavolo.mp3",
+   "m_diego": "tavolo.mp3"
+  },
+  "telo": {
+   "f_elsa": "telo.mp3",
+   "f_isabella": "telo.mp3",
+   "m_diego": "telo.mp3"
+  },
+  "testa": {
+   "f_elsa": "testa.mp3",
+   "f_isabella": "testa.mp3",
+   "m_diego": "testa.mp3"
+  },
+  "tetto": {
+   "f_elsa": "tetto.mp3",
+   "f_isabella": "tetto.mp3",
+   "m_diego": "tetto.mp3"
+  },
+  "ti": {
+   "f_elsa": "ti.mp3",
+   "f_isabella": "ti.mp3",
+   "m_diego": "ti.mp3"
+  },
+  "tigre": {
+   "f_elsa": "tigre.mp3",
+   "f_isabella": "tigre.mp3",
+   "m_diego": "tigre.mp3"
+  },
+  "tino": {
+   "f_elsa": "tino.mp3",
+   "f_isabella": "tino.mp3",
+   "m_diego": "tino.mp3"
+  },
+  "tito": {
+   "f_elsa": "tito.mp3",
+   "f_isabella": "tito.mp3",
+   "m_diego": "tito.mp3"
+  },
+  "tocca": {
+   "f_elsa": "tocca.mp3",
+   "f_isabella": "tocca.mp3",
+   "m_diego": "tocca.mp3"
+  },
+  "tonno": {
+   "f_elsa": "tonno.mp3",
+   "f_isabella": "tonno.mp3",
+   "m_diego": "tonno.mp3"
+  },
+  "topo": {
+   "f_elsa": "topo.mp3",
+   "f_isabella": "topo.mp3",
+   "m_diego": "topo.mp3"
+  },
+  "torcia": {
+   "f_elsa": "torcia.mp3",
+   "f_isabella": "torcia.mp3",
+   "m_diego": "torcia.mp3"
+  },
+  "toro": {
+   "f_elsa": "toro.mp3",
+   "f_isabella": "toro.mp3",
+   "m_diego": "toro.mp3"
+  },
+  "torre": {
+   "f_elsa": "torre.mp3",
+   "f_isabella": "torre.mp3",
+   "m_diego": "torre.mp3"
+  },
+  "torta": {
+   "f_elsa": "torta.mp3",
+   "f_isabella": "torta.mp3",
+   "m_diego": "torta.mp3"
+  },
+  "tosa": {
+   "f_elsa": "tosa.mp3",
+   "f_isabella": "tosa.mp3",
+   "m_diego": "tosa.mp3"
+  },
+  "trema": {
+   "f_elsa": "trema.mp3",
+   "f_isabella": "trema.mp3",
+   "m_diego": "trema.mp3"
+  },
+  "tubetto": {
+   "f_elsa": "tubetto.mp3",
+   "f_isabella": "tubetto.mp3",
+   "m_diego": "tubetto.mp3"
+  },
+  "tubo": {
+   "f_elsa": "tubo.mp3",
+   "f_isabella": "tubo.mp3",
+   "m_diego": "tubo.mp3"
+  },
+  "tue": {
+   "f_elsa": "tue.mp3",
+   "f_isabella": "tue.mp3",
+   "m_diego": "tue.mp3"
+  },
+  "tuffo": {
+   "f_elsa": "tuffo.mp3",
+   "f_isabella": "tuffo.mp3",
+   "m_diego": "tuffo.mp3"
+  },
+  "tutto": {
+   "f_elsa": "tutto.mp3",
+   "f_isabella": "tutto.mp3",
+   "m_diego": "tutto.mp3"
+  },
+  "va": {
+   "f_elsa": "va.mp3",
+   "f_isabella": "va.mp3",
+   "m_diego": "va.mp3"
+  },
+  "valle": {
+   "f_elsa": "valle.mp3",
+   "f_isabella": "valle.mp3",
+   "m_diego": "valle.mp3"
+  },
+  "varo": {
+   "f_elsa": "varo.mp3",
+   "f_isabella": "varo.mp3",
+   "m_diego": "varo.mp3"
+  },
+  "vecchi": {
+   "f_elsa": "vecchi.mp3",
+   "f_isabella": "vecchi.mp3",
+   "m_diego": "vecchi.mp3"
+  },
+  "vede": {
+   "f_elsa": "vede.mp3",
+   "f_isabella": "vede.mp3",
+   "m_diego": "vede.mp3"
+  },
+  "vela": {
+   "f_elsa": "vela.mp3",
+   "f_isabella": "vela.mp3",
+   "m_diego": "vela.mp3"
+  },
+  "vello": {
+   "f_elsa": "vello.mp3",
+   "f_isabella": "vello.mp3",
+   "m_diego": "vello.mp3"
+  },
+  "vena": {
+   "f_elsa": "vena.mp3",
+   "f_isabella": "vena.mp3",
+   "m_diego": "vena.mp3"
+  },
+  "vende": {
+   "f_elsa": "vende.mp3",
+   "f_isabella": "vende.mp3",
+   "m_diego": "vende.mp3"
+  },
+  "vene": {
+   "f_elsa": "vene.mp3",
+   "f_isabella": "vene.mp3",
+   "m_diego": "vene.mp3"
+  },
+  "vere": {
+   "f_elsa": "vere.mp3",
+   "f_isabella": "vere.mp3",
+   "m_diego": "vere.mp3"
+  },
+  "vermi": {
+   "f_elsa": "vermi.mp3",
+   "f_isabella": "vermi.mp3",
+   "m_diego": "vermi.mp3"
+  },
+  "vetta": {
+   "f_elsa": "vetta.mp3",
+   "f_isabella": "vetta.mp3",
+   "m_diego": "vetta.mp3"
+  },
+  "vi": {
+   "f_elsa": "vi.mp3",
+   "f_isabella": "vi.mp3",
+   "m_diego": "vi.mp3"
+  },
+  "viale": {
+   "f_elsa": "viale.mp3",
+   "f_isabella": "viale.mp3",
+   "m_diego": "viale.mp3"
+  },
+  "vico": {
+   "f_elsa": "vico.mp3",
+   "f_isabella": "vico.mp3",
+   "m_diego": "vico.mp3"
+  },
+  "vine": {
+   "f_elsa": "vine.mp3",
+   "f_isabella": "vine.mp3",
+   "m_diego": "vine.mp3"
+  },
+  "vino": {
+   "f_elsa": "vino.mp3",
+   "f_isabella": "vino.mp3",
+   "m_diego": "vino.mp3"
+  },
+  "voce": {
+   "f_elsa": "voce.mp3",
+   "f_isabella": "voce.mp3",
+   "m_diego": "voce.mp3"
+  },
+  "voglia": {
+   "f_elsa": "voglia.mp3",
+   "f_isabella": "voglia.mp3",
+   "m_diego": "voglia.mp3"
+  },
+  "volo": {
+   "f_elsa": "volo.mp3",
+   "f_isabella": "volo.mp3",
+   "m_diego": "volo.mp3"
+  },
+  "voto": {
+   "f_elsa": "voto.mp3",
+   "f_isabella": "voto.mp3",
+   "m_diego": "voto.mp3"
+  },
+  "vuoi": {
+   "f_elsa": "vuoi.mp3",
+   "f_isabella": "vuoi.mp3",
+   "m_diego": "vuoi.mp3"
+  },
+  "za": {
+   "f_elsa": "za.mp3",
+   "f_isabella": "za.mp3",
+   "m_diego": "za.mp3"
+  },
+  "zaino": {
+   "f_elsa": "zaino.mp3",
+   "f_isabella": "zaino.mp3",
+   "m_diego": "zaino.mp3"
+  },
+  "zio": {
+   "f_elsa": "zio.mp3",
+   "f_isabella": "zio.mp3",
+   "m_diego": "zio.mp3"
+  },
+  "zito": {
+   "f_elsa": "zito.mp3",
+   "f_isabella": "zito.mp3",
+   "m_diego": "zito.mp3"
+  },
+  "zona": {
+   "f_elsa": "zona.mp3",
+   "f_isabella": "zona.mp3",
+   "m_diego": "zona.mp3"
+  },
+  "zuffa": {
+   "f_elsa": "zuffa.mp3",
+   "f_isabella": "zuffa.mp3",
+   "m_diego": "zuffa.mp3"
+  },
+  "zuppa": {
+   "f_elsa": "zuppa.mp3",
+   "f_isabella": "zuppa.mp3",
+   "m_diego": "zuppa.mp3"
+  }
+ }
+}
